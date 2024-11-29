@@ -18,3 +18,4 @@
 | 2024.11.12. | 박수원 | 혼자 공부하는 머신러닝+딥러닝 07-3 신경망 모델 훈련| 
 | 2024.11.12. | 강민혁 | 선형회귀 모델의 목표와 가정, 추정 |
 | 2024.11.19. | 김현규 | Image to Image Translation with Conditional Adversarial Networks |
+| 2024.11.19. | 한은규 | Machine learning and deep learning: Methods, techniques, applications, challenges, and future research opportunities |
