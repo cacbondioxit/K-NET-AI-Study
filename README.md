@@ -21,3 +21,4 @@
 | 2024.11.19. | 한은규 | Machine learning and deep learning: Methods, techniques, applications, challenges, and future research opportunities |
 | 2024.12.23. | 김현규 | 봉미선: 봉합시켜 볼까요? 미적분과 선형대수를 말이죠 |
 | 2025.01.07. | 김현규 | 제약조건이 있는 최적화 문제 |
+| 2025.01.21. | 강민혁 | 샴 뉴럴 네트워크를 바탕으로한 one shot learning |
